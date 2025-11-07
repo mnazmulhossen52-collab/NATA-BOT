@@ -1,7 +1,56 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261577599325762%22%3A%22qhLQg8R0%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	},
+	{
+		"key": "sb",
+		"value": "3zIOaZkB7qkqkat7F2RECB1F",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	},
+	{
+		"key": "dpr",
+		"value": "0.6666666666666666",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	},
+	{
+		"key": "datr",
+		"value": "hTgOaUohbheuCXARrq1VwiRT",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	},
+	{
+		"key": "fr",
+		"value": "0PUv2dV7CRhFKY8YO..BpDjiF..AAA.0.0.BpDjiF.AWdlq4Hq25XeyV-izzwZx1IM9TQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	},
+	{
+		"key": "wd",
+		"value": "2400x1109",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-07T18:21:22.432Z",
+		"lastAccessed": "2025-11-07T18:21:22.432Z"
+	}
+]
